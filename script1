@@ -1,7 +1,0 @@
-{
-   var script = document.createElement("script1");
-   script.async = false;
-   script.src = "//plug.plufdsb.com/wdgt/?PRT=ZGl2PTE2MDk3ODU1MjM2MTEmY2ZmPSZmZj1WZXJkYW5hJmNmdD0mZmZ0PUdlb3JnaWEmYnJjPTAwMDAwMCZpYmNoPTAwMDAwMCZmYz1kZWE3MDAmaHRjPWIzYjNiMyZkYj05JmM9OTQ4JnBkPTMmaXc9MyZicj0wJmZzej0xMSZmc3Q9MjAmY2g9MiZmY3Q9MDBlMzQ4Jml5bj0xJml0PXNxYXUmc3Q9MSZ0YT1sZWZ0JnRpdGxlbGVuZ3RoPWZ1bGwmdHA9MSZidGM9MDAwMDAwJmRlYz11bmRlcmxpbmUmZnc9bm9ybWFsJnd0PUEmc2V4dWFsX29yaWVudGF0aW9uPWdheSZudWRlX3N0YXRlPWJvdGgmd2lkZ2V0X3Jlc3BvbnNpdmU9MSZwb3B1bmRlcj0wJmN1c3RvbWNzcz0mdGFnczA9YWR1bHQgcGF5c2l0ZTtiYXJlYmFjaztiaWcgZGljaztkYWRkeTtjYW07bG9ja2VyIHJvb207Z2FtaW5nO2RhdGluZzttdXNjbGU7c3VydmV5O3N0cmFpZ2h0IGd1eXM7dHdpbms7aHVua3M7bGF0aW5vJnBiZGQ9MSZwYnA9Ym90dG9tJnBiYT1yaWdodCZ3dGRkPTEmd3R2PVlvdSBtYXkgYWxzbyBsaWtlIEFsbCBHdXlzIENhbXMhIGJ5X2plcmtpbmdtZW7CqSZmd3Q9Ym9sZCZzaXRlbGluaz0w&source=&aff_sub=&aff_sub2=&aff_sub3=&aff_sub4=&aff_sub5=&fid=120069&file_id=506437";
-   var dst = document.getElementsByTagName("script1")[0];
-   dst.parentNode.insertBefore(script, dst);
-}
